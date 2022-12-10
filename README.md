@@ -8,6 +8,11 @@ Attached should be the folders containing the code used to run our Jetbot for ou
 where we had to follow a track in a race, both when manually controlling the Jetbot and when 
 having it follow the track itself.
 
+# Basic Motion
+We first initially used this folder of code to initially test our overall setup, making sure there was 
+a stable connection between our computer and the Jetbot, as well as understanding the general motion of
+the Jetbot and how to expect it to move for the rest of the project
+
 # Manual Control
 In order to manually control the Jetbot, we implemented the code in the teleoperations folder 
 which allowed us to use an xbox controller to control each motor individually to make our way through the track.
